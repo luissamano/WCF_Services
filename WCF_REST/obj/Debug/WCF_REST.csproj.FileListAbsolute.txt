@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\bin\WCF_REST.dll.config
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\bin\WCF_REST.dll
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\bin\WCF_REST.pdb
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\obj\Debug\WCF_REST.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\obj\Debug\WCF_REST.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\obj\Debug\WCF_REST.dll
+C:\Users\marti\source\repos\WCF_Services\WCF_REST\obj\Debug\WCF_REST.pdb

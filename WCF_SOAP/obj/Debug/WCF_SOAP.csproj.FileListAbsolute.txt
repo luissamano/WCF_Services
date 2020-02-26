@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\bin\WCF_SOAP.dll.config
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\bin\WCF_SOAP.dll
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\bin\WCF_SOAP.pdb
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\obj\Debug\WCF_SOAP.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\obj\Debug\WCF_SOAP.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\obj\Debug\WCF_SOAP.dll
+C:\Users\marti\source\repos\WCF_Services\WCF_SOAP\obj\Debug\WCF_SOAP.pdb
